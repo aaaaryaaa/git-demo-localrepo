@@ -1,1 +1,1 @@
-This is a local repo i made for the first time using git
+# This is a local repo i made for the first time using git
